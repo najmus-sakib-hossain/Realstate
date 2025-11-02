@@ -13,9 +13,9 @@
 </head>
 
 <body>
-    <section class="py-20 mt-20 min-h-screen flex space-x-4 items-center justify-center">
+    <section class="py-20 mt-20 min-h-screen flex space-x-4 items-center justify-center gap-4 lg:gap-0 my-4 lg:my-0">
         <div class="container mx-auto px-4">
-            <div class="flex flex-col lg:flex-row items-stretch justify-between gap-8 w-full bg-red-500">
+                        <div class="flex flex-col lg:flex-row items-center justify-between gap-8 w-full bg-red-500">
                 <div class="lg:self-start w-[20%] max-w-[20%] h-full">
                     <h3 class="text-2xl font-semibold">আমাদের মিশন</h3>
                     <p class="p-0 m-0">আমরা গ্রাহকদের জন্য সেরা রিয়েল এস্টেট সমাধান প্রদান করি, যাতে তারা তাদের পছন্দের বাড়ি সহজেই
@@ -23,7 +23,7 @@
                 </div>
                 <div class="w-[60%]">
                     <img src="{{ asset('assets/images/nature.jpg') }}" alt="জলজোছনা"
-                        class="rounded-md w-full object-cover">
+                        class="rounded-md w-full h-64 object-cover">
                 </div>
                 <div class="lg:self-end w-[20%] max-w-[20%] h-full">
                     <h3 class="text-2xl font-semibold">আমাদের ভিশন</h3>
