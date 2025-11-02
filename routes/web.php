@@ -17,3 +17,5 @@ Route::get('/slider1',function(){
 Route::get('/slider2',function(){
     return view('slider2');
 });
+
+Route::get('/about', [App\Http\Controllers\AboutController::class, 'index']);
