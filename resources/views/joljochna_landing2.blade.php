@@ -29,9 +29,11 @@
             </button>
 
             <!-- Navigation Items -->
-            <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="collapse navbar-collapse  ms-auto" id="navbarNav">
+
+
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item">
+                    <li class="nav-item" style="margin-left: 7rem;">
                         <a class="nav-link" href="#home">হোম</a>
                     </li>
                     <li class="nav-item">

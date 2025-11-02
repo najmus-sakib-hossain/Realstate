@@ -73,7 +73,7 @@ body {
 
 /* Navigation Items */
 .navbar-nav {
-    gap: 0.5rem;
+    gap: 0rem;
 }
 
 .nav-link {

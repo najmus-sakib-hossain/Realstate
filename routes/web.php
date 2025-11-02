@@ -13,3 +13,7 @@ Route::get('/dashboard',function(){
 Route::get('/slider1',function(){
     return view('slider1');
 });
+
+Route::get('/slider2',function(){
+    return view('slider2');
+});
