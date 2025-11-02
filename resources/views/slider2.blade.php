@@ -179,20 +179,20 @@
         </div>
     </div>
 
-    <section class="h-screen flex space-x-4 items-center justify-center gap-4 lg:gap-0 my-4 lg:my-0">
+    <section class="min-h-screen flex space-x-4 items-center justify-center gap-4 lg:gap-0 my-4 lg:my-0 mb-8">
         <div class="container mx-auto px-4 h-full">
             <div
                 class="rounded-md flex flex-col lg:flex-row items-center lg:items-stretch justify-between gap-4 w-full min-h-full bg-[#F9F9F9] p-8">
-                <div class="lg:self-start w-full lg:w-[20%] h-full">
+                <div class="lg:self-start w-full lg:w-[25%] h-full">
                     <h3 class="text-2xl font-semibold">আমাদের মিশন</h3>
                     <p class="p-0 m-0">আমরা গ্রাহকদের জন্য সেরা রিয়েল এস্টেট সমাধান প্রদান করি, যাতে তারা তাদের পছন্দের
                         বাড়ি সহজেই
                         খুঁজে পান। আমাদের লক্ষ্য হলো গ্রাহকদের সাথে স্বচ্ছতা এবং বিশ্বাসের ভিত্তিতে কাজ করা।</p>
                 </div>
-                <div class="w-full lg:w-[60%]">
-                    <img src="/assets/images/nature.jpg" alt="জলজোছনা" class="rounded-md w-full h-full object-cover">
+                <div class="w-full lg:w-[50%]">
+                    <img src="/assets/images/nature.jpg" alt="জলজোছনা" class="rounded-md w-full lg:h-[750px] h-full object-cover">
                 </div>
-                <div class="lg:self-end w-full lg:w-[20%] h-full">
+                <div class="lg:self-end w-full lg:w-[25%] h-full">
                     <h3 class="text-2xl font-semibold">আমাদের ভিশন</h3>
                     <p class="p-0 m-0">বাংলাদেশের শীর্ষ রিয়েল এস্টেট প্ল্যাটফর্ম হয়ে উঠা, যেখানে গ্রাহকের সন্তুষ্টি
                         সর্বোচ্চ
