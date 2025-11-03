@@ -42,6 +42,8 @@
         .history-section {
             padding: 60px 15px;
             background-color: #f9f9f9;
+            margin-top: 80px;
+            margin-bottom: 80px;
         }
 
         .history-title {
